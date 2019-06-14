@@ -4,4 +4,7 @@ If you're integrating FusionAuth with an Android application, this library will 
 For additional information and documentation on FusionAuth refer to [https://fusionauth.io](https://fusionauth.io).
 
 
-This library is in development and not ready for consumption.
+## Notice
+This library is currently in development it is not yet available for public consumption.
+
+> **WARNING**: This project is still in development, feel free to use, but it may not work. You may still feel free to open issues or submit PRs. 
